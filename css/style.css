@@ -1,4 +1,8 @@
 
-.bg-gradient-my {
+.bg-gradient-btn {
     background-image: linear-gradient(270deg, #F00 0%, #FF8938 100%);
+}
+
+.bg-gradient-grey {
+    background-image: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0.00) 100%);
 }
